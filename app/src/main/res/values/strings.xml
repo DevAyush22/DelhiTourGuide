@@ -1,0 +1,152 @@
+<resources>
+
+    <!-- Title for the application. -->
+    <string name="app_name">Delhi Tour Guide</string>
+
+    <!-- Category name for About. -->
+    <string name="category_about">ABOUT</string>
+
+    <!-- Category name for Historical Sights. -->
+    <string name="category_sights">SIGHTS</string>
+
+    <!-- Category name for Food Places. -->
+    <string name="category_food">FOOD</string>
+
+    <!-- Category name for Hotels. -->
+    <string name="category_hotels">HOTELS</string>
+
+    <!-- Category name for Fun Places. -->
+    <string name="category_fun">FUN</string>
+
+    <!-- Title name of welcome fragment. -->
+    <string name="delhi">Delhi</string>
+
+    <!-- Text under the title 'delhi' of welcome fragment -->
+    <string name="delhi_text">
+        Delhi, officially the National Capital Territory of Delhi or NCT,
+        is a city and a union territory of India. The NCT covers an area of 1,484 square kilometres (573 sq mi).
+        According to 2011 census, Delhi city proper population was over 11 million,
+        the second highest in India after Mumbai. </string>
+
+    <!-- Location of welcome fragment. -->
+    <string name="location">Location</string>
+
+    <!-- Text under the title 'location' of welcome fragment -->
+    <string name="location_text">
+        New Delhi is the capital city of India and serves as the center of government of the
+        National Capital Territory of Delhi. Earlier the capital city of India was Kolkata but in the year 1911,
+        New Delhi became the capital city of India. </string>
+
+    <!-- Climate of welcome fragment. -->
+    <string name="climate">Climate</string>
+
+    <!-- Text under the title 'climate' of welcome fragment -->
+    <string name="climate_text">
+        The climate of Delhi is an overlap between monsoon-influenced humid subtropical and semi-arid,
+        with high variation between summer and winter temperatures and precipitation. Delhi
+        has relatively dry short winters and has a prolonged spell of very hot weather, due to its semi-arid climate.
+        Extreme temperatures have ranged from −2.2 °C to 48.4 °C. </string>
+
+    <!-- Text to open a particular location on google map -->
+    <string name="map_literal">http://maps.google.co.in/maps?q=</string>
+
+    <!-- Text to locate Delhi(city) on google map -->
+    <string name="location_delhi">, DELHI</string>
+
+    <!-- Different food places and their description under FoodFragment -->
+    <string name="vault_cafe">THE VAULT CAFE</string>
+    <string name="vault_cafe_desc">Awesome ambience and delicious food</string>
+    <string name="tamahsa">TAMASHA</string>
+    <string name="tamasha_desc">Great nightlife, your everyday bar!</string>
+    <string name="big_yellow_door">BIG YELLOW DOOR</string>
+    <string name="big_yellow_door_desc"><![CDATA[Italian food & cordial service]]></string>
+    <string name="ampm_cafe"><![CDATA[AMPM CAFE & BAR]]></string>
+    <string name="ampm_cafe_desc">Indoor as well as outdoor seating</string>
+    <string name="barbeque_nation">BARBEQUE NATION</string>
+    <string name="barbeque_nation_desc"><![CDATA[Best for live grills & saucy appetizers]]></string>
+    <string name="kake_di_hatti">KAKE DI HATTI</string>
+    <string name="kake_di_hatti_desc"><![CDATA[Famous for stuffed kulcha & naan]]></string>
+    <string name="barracks">38 BARRACKS</string>
+    <string name="barracks_desc"><![CDATA[Army themed, creative interiors & great food]]></string>
+    <string name="bukhara">BUKHARA</string>
+    <string name="bukhara_desc">Rustic atmosphere, unforgettable kebabs</string>
+    <string name="billus_hut">BILLU\'S HUT</string>
+    <string name="billus_hut_desc"><![CDATA[Place for cheese & shake lovers!]]></string>
+    <string name="masaba">MASABAA</string>
+    <string name="masaba_desc"><![CDATA[Classic interiors, good food & an amazing DJ]]></string>
+    <string name="old_world_charm">OLD WORLD\'S CHARM</string>
+    <string name="old_world_charm_desc">Enjoy the food at lovely Rooftop!</string>
+
+    <!-- Different hotels and their description under HotelsFragment -->
+    <string name="raddison_blu">RADDISON BLU</string>
+    <string name="raddison_blu_desc"><![CDATA[Upscale pick with dining & pool]]></string>
+    <string name="umrao">THE UMRAO</string>
+    <string name="umrao_desc"><![CDATA[Ornate business pick with a pool & spa]]></string>
+    <string name="tivoli">TIVOLI RESORT</string>
+    <string name="tivoli_desc"><![CDATA[Upscale lodging with pool & dining]]></string>
+    <string name="grand_park">GRAND PARK INN</string>
+    <string name="grand_park_desc">Relaxed hotel with a rooftop eatery</string>
+    <string name="city_park">HOTEL CITY PARK</string>
+    <string name="city_park_desc">Green lodging, plus an indoor pool</string>
+    <string name="ashok_hotel">THE ASHOK HOTEL</string>
+    <string name="ashok_hotel_desc"><![CDATA[Refined hotel with 6 restaurants & spa]]></string>
+    <string name="samrat_hotel">SAMRAT HOTEL</string>
+    <string name="samrat_hotel_desc"><![CDATA[Unpretentious pick with dining & pool]]></string>
+    <string name="leela_palace">LEELA PALACE</string>
+    <string name="leela_palace_desc">Warm hotel with fine dining</string>
+    <string name="crowne_plaza">CROWNE PLAZA</string>
+    <string name="crowne_plaza_desc"><![CDATA[Elegant hotel with spa & 2 restaurants]]></string>
+    <string name="le_meridien">LE MERIDIEN</string>
+    <string name="le_meridien_desc">Modern hotel with best class services</string>
+    <string name="taj_palace">TAJ PALACE HOTEL</string>
+    <string name="taj_palace_desc">Warmth of true indian hospitality</string>
+
+    <!-- Different historical sights and their description under SightsFragment -->
+    <string name="india_gate">INDIA GATE</string>
+    <string name="india_gate_desc">War memorial located astride the Rajpath</string>
+    <string name="red_fort">RED FORT</string>
+    <string name="red_fort_desc">Historical fort, Built in 1639</string>
+    <string name="qutub_minar">QUTUB MINAR</string>
+    <string name="qutub_minar_desc">UNESCO World Heritage Site, 73-metre tall</string>
+    <string name="lotus_temple">LOTUS TEMPLE</string>
+    <string name="lotus_temple_desc">House of Worship, Flower like shape</string>
+    <string name="akshardham">AKSHARDHAM</string>
+    <string name="akshardham_desc"><![CDATA[Hindu mandir & spiritual-cultural campus]]></string>
+    <string name="jama_masjid">JAMA MASJID</string>
+    <string name="jama_masjid_desc">Largest mosque in India, built by Shah Jahan</string>
+    <string name="pragati_maidan">PRAGATI MAIDAN</string>
+    <string name="pragati_maidan_desc">Venue for large exhibitions</string>
+    <string name="jantar_mantar">JANTAR MANTAR</string>
+    <string name="jantar_mantar_desc">Observatory, Completed in 1724</string>
+    <string name="bangla_sahib">BANGLA SAHIB</string>
+    <string name="bangla_sahib_desc">Sikh gurudwara, or Sikh house of worship</string>
+    <string name="lodi_gardens">LODI GARDENS</string>
+    <string name="lodi_gardens_desc">City park spread over 90 acres</string>
+    <string name="agrasen_baoli">AGRASEN KI BAOLI</string>
+    <string name="agrasen_baoli_desc">60-meter long historical 108 step well</string>
+
+    <!-- Different fun places and their description under FunFragment -->
+    <string name="adventure_island">ADVENTURE ISLAND</string>
+    <string name="adventure_island_desc"><![CDATA[Friendly theme park with water-coasters, boats & rides]]></string>
+    <string name="smaaash">SMAAASH CYBERHUB</string>
+    <string name="smaaash_desc"><![CDATA[Gaming & entertainment center with wide range of activities]]></string>
+    <string name="oysters">OYSTERS WATER PARK</string>
+    <string name="oysters_desc">Experience the thrilling water rides for complete fun</string>
+    <string name="dilli_haat">DILLI HAAT</string>
+    <string name="dilli_haat_desc"><![CDATA[Enjoy shopping, food & culture from the different states of India]]></string>
+    <string name="wow">WORLDS OF WONDER</string>
+    <string name="wow_desc">Popular water-cum-amusement park for complete entertainment</string>
+    <string name="kingdom">KINGDOM OF DREAMS</string>
+    <string name="kingdom_desc">Enjoy live Bollywood-style performances at this theatre-venue</string>
+    <string name="bluo">BLUO, AMBIENCE MALL</string>
+    <string name="bluo_desc"><![CDATA[Largest bowling alley with a karaoke & X-box 360 lounges too]]></string>
+    <string name="central_park">CENTRAL PARK</string>
+    <string name="central_park_desc"><![CDATA[City park with sitting areas & occasional music performances]]></string>
+    <string name="iskate">ISKATE</string>
+    <string name="iskate_desc"><![CDATA[An ice-skating rink, skate on real ice & dance to the disco tunes]]></string>
+    <string name="mystery_rooms">MYSTERY ROOMS</string>
+    <string name="mystery_rooms_desc"><![CDATA[Solve puzzles, find hints & get yourself out of a theme based room]]></string>
+    <string name="zoo">NATIONAL ZOOLOGICAL PARK</string>
+    <string name="zoo_desc">176-acre sprawling green island which houses 130 species</string>
+
+</resources>
